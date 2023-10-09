@@ -1,0 +1,25 @@
+
+^
+java:S2184$"HCast one of the operands of this multiplication operation to a "double".(–³ö¹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÔÁä
+:
+java:S1659"$Declare "found2" on a separate line.(şĞ±
+V	java:S125
+"<This block of commented-out lines of code should be removed.(™ÈØûÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(™ÈØûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(óıò›ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ë¶íµ
+Q	java:S125"<This block of commented-out lines of code should be removed.(äş¥•
+@	java:S106("+Replace this use of System.out by a logger.(ÚÈŸ¶
+E	java:S106*"+Replace this use of System.out by a logger.(À»Ø‡úÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(ÚÈŸ¶
+E	java:S1062"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ
+?	java:S1067"+Replace this use of System.out by a logger.(ï…>
+=
+java:S1125;"'Remove the unnecessary boolean literal.(ÈñĞÊ
+E	java:S106<"+Replace this use of System.out by a logger.(¦©È¹úÿÿÿÿ
+B
+java:S1125?"'Remove the unnecessary boolean literal.(„ŞøÕùÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(Êçö÷
+@	java:S106B"+Replace this use of System.out by a logger.(ÎûÎì
