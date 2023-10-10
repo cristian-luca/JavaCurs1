@@ -1,0 +1,11 @@
+
+`
+java:S6208"CMerge the previous cases into this one using comma-separated label.(‚Π£φ8‘έ¦«±1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò—ν¥ϋÿÿÿÿ8–έ¦«±1
+G	java:S106"+Replace this use of System.out by a logger.(νσΟ¤8θέ¦«±1
+L	java:S106"+Replace this use of System.out by a logger.(ϋ€«όÿÿÿÿ8ιέ¦«±1
+L	java:S106"+Replace this use of System.out by a logger.(„ϊιώÿÿÿÿ8λέ¦«±1
+L	java:S106"+Replace this use of System.out by a logger.(Γ…ύόÿÿÿÿ8μέ¦«±1
+L	java:S106"+Replace this use of System.out by a logger.(§ηΊΡψÿÿÿÿ8νέ¦«±1
+G	java:S106"+Replace this use of System.out by a logger.(Ε¦¦ϋ8ξέ¦«±1
+L	java:S106"+Replace this use of System.out by a logger.(ÿ«£ύÿÿÿÿ8πέ¦«±1

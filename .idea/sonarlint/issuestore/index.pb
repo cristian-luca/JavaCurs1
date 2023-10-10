@@ -3,3 +3,17 @@ t
 Dsrc/javaExercises/chapter3/AfliCele3NrDacaStiiMediaLorAitmetica.java,3\a\3a7e742978432a58653649bc54795ceb88acb84e
 m
 =src/javaExercises/chapter2SkillBrain/DoubleArrayReloaded.java,8\9\89e76596bc5e871de3b6faa5bd713e804d046496
+a
+1src/javaExercises/staticExample/BoardWitness.java,5\f\5fa360310d27a0c71e12a1bd2644c972e441ccd3
+U
+%src/javaExercises/testJava/ExNr5.java,b\2\b2eeaa61d4596f85f12d0c52fbc75a5397c0fd98
+U
+%src/javaExercises/testJava/ExNr4.java,d\9\d9fd250a4b30130f21a1845a0867074c68048dc7
+U
+%src/javaExercises/testJava/ExNr2.java,c\c\ccee2cd765f2855dc76ad06efb47e5b288d6abe2
+U
+%src/javaExercises/testJava/ExNr1.java,3\f\3f06092760b53db892e5d24af2c9ecf9cb969e0f
+U
+%src/javaExercises/testJava/ExNr3.java,e\9\e9204d80821c6b65c3b0288ff4f0e4b29c2966a5
+e
+5src/javaExercises/chapter2SkillBrain/DoubleArray.java,5\0\50339eb76111616ad2436f893d5ac0d69ceda22a
